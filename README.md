@@ -22,7 +22,7 @@ cd bsc-validator-directory/
 3. Create a folder with the operator address of your validator, like "0x6789f6Ed99B28027B609822D434FD2B637Ed4387"
 
 4. Create your folder: `validators/<your-operator-address>`. 
-Upload your logo with file named logo.png to previously created folder with smart contract address, 
+Upload your logo with file named logo.png and profile.json to previously created folder, 
 and if you have done all correctly, your path should look like this `validators/0x6789f6Ed99B28027B609822D434FD2B637Ed4387/logo.png`.
 Logo must have dimensions: min: 64x64 and max: 512x512
 
