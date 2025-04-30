@@ -1,0 +1,11 @@
+{
+    "contact": {
+        "email": "info@globalstake.io",
+        "twitter":"@Global-Stake",
+        "telegram": "",
+        "website": "https://globalstake.io"
+    },
+    "notifications": {
+        "email": "alerts@globalstake.io"
+    }
+}
