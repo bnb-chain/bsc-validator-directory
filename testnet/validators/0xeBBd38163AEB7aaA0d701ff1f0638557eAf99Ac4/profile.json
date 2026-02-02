@@ -1,0 +1,16 @@
+{
+  "details": {
+    "display_moniker": "TestAries",
+    "description": "this is testnet validator account",
+    "staking_address": "0xeBBd38163AEB7aaA0d701ff1f0638557eAf99Ac4"
+  },
+  "contact": {
+    "email": "NA",
+    "twitter":"NA",
+    "telegram": "NA",
+    "website": "NA"
+  },
+  "notifications": {
+      "email": "NA"
+  }
+}
