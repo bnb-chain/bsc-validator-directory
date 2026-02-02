@@ -1,11 +1,16 @@
 {
+  "details": {
+    "display_moniker": "AnkrNansen",
+    "description": "Powered by Ankr’s global Web3 infrastructure and Nansen’s on-chain intelligence, this validator delivers high-performance, secure staking backed by real-time blockchain analytics.",
+    "staking_address": "0xeace91702B20bc6Ee62034eC7f5162D9a94bFbE4"
+  },
   "contact": {
     "email": "bsc-validator@ankr.com",
-    "twitter":"https://twitter.com/ankr",
+    "twitter":"https://x.com/ankr",
     "telegram": "https://t.me/ankrnetwork",
     "website": "https://www.ankr.com"
   },
   "notifications": {
-      "email": "bsc-validator@example.com"
+      "email": "bsc-validator@ankr.com"
   }
 }
