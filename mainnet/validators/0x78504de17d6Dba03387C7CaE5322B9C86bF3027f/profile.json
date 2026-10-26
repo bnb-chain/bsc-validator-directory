@@ -1,7 +1,16 @@
 {
+  "details": {
+    "display_moniker": "Hash Global",
+    "description": "Hash Global, founded in 2018, is an investment firm focused on Web3 and digital assets. It aims to bridge financial institutions and industry partners with Web3 technology, driving its broader commercial adoption. The firm manages multiple primary and secondary market funds, and its in-depth research on BNB has earned wide recognition from both traditional financial institutions and the Web3 industry. To date, Hash Global has invested in over 90 Web3 enterprises and incubates early-stage projects through its Hong Kong subsidiary, HG Labs. Hash Global co-launched the BNB Yield Fund with YZi Labs and is deeply engaged in the BNB ecosystem, serving as one of the earliest validator nodes on BNB Chain. For more information, visit www.hashglobal.io or follow @HashGlobal on X.",
+    "staking_address": "0x78504de17d6Dba03387C7CaE5322B9C86bF3027f"
+  },
   "contact": {
-    "email": "contact@hashkey.cloud",
-    "twitter":"https://x.com/HashKeyCloud",
-    "website": "https://www.hashkey.cloud/"
+    "email": "zhoumy@hashglobal.net",
+    "twitter":"https://x.com/HashGlobal",
+    "telegram": "https://t.me/doriszhou",
+    "website": "www.hashglobal.io"
+  },
+  "notifications": {
+      "email": "contact@hashkey.cloud"
   }
 }
